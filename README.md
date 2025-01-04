@@ -73,7 +73,7 @@ Because of the file `config.json`, you must use the command `cd "the path of the
 5. Click the Run button at the bottom of the screen.
 6. The game will start in a new terminal, and have fun!
 
-## Attenion!
+## Attention!
 
 This game is still in development, and may have bugs or glitches. Please report any bugs or issues to me. And I will give a release version in 1 month.
 
